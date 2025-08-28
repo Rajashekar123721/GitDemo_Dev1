@@ -74,7 +74,7 @@ public static void main(String[] args) {
 	driver.findElement(By.xpath("//a[@class=\"btn btn-default\"]")).click();
 	
 	System.out.println("Appointment Booked");
-	driver.quit();
+	//driver.quit();
 }
 
 
